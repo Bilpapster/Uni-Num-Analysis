@@ -1,6 +1,6 @@
 # numerical-analysis-algorithms-in-Octave
 
-<p>In this repository you can find code solutions to problems related to the field of Numerical Analysis. Code development was held alongside with the course "Numerical Analysis", that the author attendeed, during their third semester of studies in the School of Informatics, AUTh. The repository contains code for the two assignments of the mcourse.
+<p>In this repository you can find code solutions to problems related to the field of Numerical Analysis. Code development was held alongside with the course "Numerical Analysis", that the author attendeed, during their third semester of studies in the School of Informatics, AUTh. The repository contains code for the two assignments of the course.
 </p>
 
 # First Assignment
