@@ -31,7 +31,7 @@
 
 </p>
 
-<p> The code files for the first assignment were originally developed in December 2020, in GNU Octave programming language. Apart from source code files, the first assignment directory contains a report, that was handed complementary. The report covers in theory the reasoning behind the code solutions, as well as serves as code documentation.</p>
+<p> The code files for the first assignment were genuinely developed in December 2020, in GNU Octave programming language. Apart from source code files, the first assignment directory contains a technical report in english, that was handed in complement. The report covers in theory the reasoning behind the code solutions and serves as code documentation.</p>
 
 # Second Assignment
 
@@ -53,4 +53,4 @@
   <li>An application of interpolation (least squares) in data fitting and stock forecast</li>
 </ul>
 
-<p> The code files for the second assignment were originally developed in January 2021, in GNU Octave programming language. Apart from source code files, the second assignment directory contains a report, that was handed complementary. The report covers in theory the reasoning behind the code solutions, as well as serves as code documentation.</p>
+<p> The code files for the second assignment were genuinely developed in January 2021, in GNU Octave programming language. Apart from source code files, the second assignment directory contains a technical report in english, that was handed in complement. The report covers in theory the reasoning behind the code solutions and serves as code documentation.</p>
